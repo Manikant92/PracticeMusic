@@ -3,6 +3,7 @@ Ever thought practicing music can be rewarding and fun?
 
 # Blog
 To know more about how we built this project, read the article here: 
+
 https://manikantkella.hashnode.dev/practice-music-ever-thought-practicing-music-can-be-rewarding-and-fun
 
 # Setup
